@@ -1,5 +1,5 @@
-import axios from 'axios'
 import React from 'react'
+import axios from 'axios'
 import DisplayQuote from './components/DisplayQuote.js'
 import './App.css'
 
